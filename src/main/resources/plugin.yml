@@ -1,0 +1,12 @@
+name: TestGame
+version: ${project.version}
+main: me.iloveeatmuffin.testgame.TestGame
+api-version: 1.15
+authors: [ILoveEatMuffin]
+commands:
+  lobby:
+    usage: /<command>
+    description: ewe
+  game:
+    usage: /<command>
+    description: ewe
